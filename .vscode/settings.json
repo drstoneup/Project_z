@@ -47,4 +47,17 @@
 	"[javascript]": {
 		"editor.defaultFormatter": "vscode.typescript-language-features"
 	},
+}	"javascript.format.insertSpaceAfterFunctionName": true,
+	"javascript.format.insertSpaceAfterComma": true,
+	"javascript.format.insertSpaceAfterSemicolon": true,
+	"javascript.format.insertSpaceBeforeColon": true,
+	"javascript.format.insertSpaceAfterColon": true,
+	"javascript.format.insertSpaceAroundOperators": true,
+	"javascript.format.insertSpaceBeforeBlockComments": true,
+	"javascript.format.insertSpaceAfterBlockComments": true,
+	"javascript.format.insertSpaceBeforeLineComments": true,
+	"javascript.format.insertSpaceAfterLineComments": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
 }
